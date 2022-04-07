@@ -1,7 +1,7 @@
 # calculadora-react
 
 
-Calculadora criada utilizando ###React, através do comando creat-react-app.
+Calculadora criada utilizando **React**, através do comando creat-react-app.
 
 As funções da calculadora foram construídas através da lib mathjs.
 
