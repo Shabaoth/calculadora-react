@@ -19,4 +19,4 @@ _Você pode ver os erros apontados pelo lint, através do console do navegador_
 Compila o código para Produção dentro do diretório `build`.\
 É uma boa prática agrupar o React em um pacote de produção e otimizar a build (compilação) para melhorar a performance.
 
-As funções da calculadora foram construídas através da lib mathjs.
+As funções da calculadora foram construídas usando a biblioteca mathjs.
